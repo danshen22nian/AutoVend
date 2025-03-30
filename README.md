@@ -1,7 +1,7 @@
 
 
-# 一种基于弱监督的自动售货机商品识别方法
-A Weakly Supervised Method for Product Recognition in Vending Machines
+# UVM-YOLO: 基于改进YOLOv5s的无人售货机商品识别算法
+UVM-YOLO: An Improved YOLOv5s-Based Product Recognition Algorithm for Unmanned Vending Machines
 
 ## 目录
 
